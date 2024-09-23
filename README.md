@@ -19,7 +19,9 @@ This repository includes:
 ## Expansion of This Work
 
 An extended version of this research was completed as my **Bachelor Thesis** at **Nankai University**, titled "**Research on Electric Vehicle Routing Problems with Capacity Constraints**," under the supervision of **Dr. Xiao-Fang Liu**. 
+
 This thesis was awarded the **Nankai University Best Thesis Award**. 
+
 If you would like to access my thesis (in Chinese), please feel free to **contact me**.
 
 ## Status
