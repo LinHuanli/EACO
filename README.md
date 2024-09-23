@@ -24,8 +24,6 @@ An extended version of this research was completed as my **Bachelor Thesis** at 
 
 - The code is currently being organized and cleaned up to remove redundant information. It will be made **available soon**.
 
-Stay tuned for updates!
-
 ## Citation
 
 If you use this work in your research, please cite the paper as follows:
