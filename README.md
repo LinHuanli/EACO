@@ -14,7 +14,7 @@ This repository contains the code, datasets, and presentation slides for the pap
 
 This repository includes:
 - The **code** and **datasets** for solving the capacitated electric vehicle routing problem using Extended Ant Colony Optimization (ACO).
-- The **presentation slides** used at SSCI 2022.
+- The **presentation slides** used at IEEE SSCI 2022.
 
 ## Expansion of This Work
 
