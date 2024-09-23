@@ -16,9 +16,15 @@ This repository includes:
 - The **code** and **datasets** for solving the capacitated electric vehicle routing problem using Extended Ant Colony Optimization (ACO).
 - The **presentation slides** used at SSCI 2022.
 
+## Expansion of This Work
+
+An extended version of this research was completed as my **Bachelor Thesis** at **Nankai University**, under the supervision of **Dr. Xiao-Fang Liu**. This thesis was awarded the **Nankai University Best Thesis Award**. If you would like to access my thesis (in Chinese), please feel free to **contact me**.
+
 ## Status
 
 - The code is currently being organized and cleaned up to remove redundant information. It will be made **available soon**.
+
+Stay tuned for updates!
 
 ## Citation
 
